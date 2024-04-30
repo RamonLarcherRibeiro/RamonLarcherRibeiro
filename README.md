@@ -1,12 +1,3 @@
-
-<div style='display:flex !important; flex-direction:row !important; align-items:center !important; justify-content:center !important;' >
-  <img style='width:3rem;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img style='width:3rem;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img style='width:3rem;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img style='width:3rem;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img style='width:3rem;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-</div>
-
 <div style='display:flex; flex-direction:row;'>
   <a href="https://github.com/RamonLarcherRibeiro">
   <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLarcherRibeiro&layout=compact&langs_count=7&theme=dracula"/>
