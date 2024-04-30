@@ -1,3 +1,6 @@
+Olá, eu sou Ramon! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻
+
+
 <div style='display:flex; flex-direction:row;'>
   <a href="https://github.com/RamonLarcherRibeiro">
   <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLarcherRibeiro&layout=compact&langs_count=7&theme=dracula"/>
