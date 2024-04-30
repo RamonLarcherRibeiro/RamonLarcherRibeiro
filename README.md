@@ -1,4 +1,4 @@
-<p style='font-weight:bold; font-size:30px;'> Olá, eu sou Ramon! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻</p>
+<h1 style='font-weight:bold; font-size:30px;'> Olá, eu sou Ramon! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻</h1>
 
 <div style='display:flex; flex-direction:row;'>
   <a href="https://github.com/RamonLarcherRibeiro">
