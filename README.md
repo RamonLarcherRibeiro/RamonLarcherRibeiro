@@ -1,7 +1,7 @@
 <div>
 <a href="https://www.linkedin.com/in/ramon-larcher-b50806270" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<div style='display:flex; flex-direction:row; align-items:center; justify-content:center; width:100%;' >
+<div style='display:flex !important; flex-direction:row !important; align-items:center !important; justify-content:center !important;' >
   <img style='width:3rem;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img style='width:3rem;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img style='width:3rem;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
