@@ -1,4 +1,5 @@
 <h3 style='font-weight:bold; font-size:30px;'> 🧑‍💻Olá, eu sou Ramon! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8EE1EF&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+a+Jennyfer,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
 
 <div style='display:flex; flex-direction:row;'>
   <a href="https://github.com/RamonLarcherRibeiro">
