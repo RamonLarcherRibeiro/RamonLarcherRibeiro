@@ -1,4 +1,3 @@
-<h3 style='font-weight:bold; font-size:30px;'> 🧑‍💻Olá, eu sou Ramon! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1+eu+sou+o+Ramon+%2C+seja+bem+vindo+ao+meu+Github" alt="Typing SVG" /></a>
 <div style='display:flex; flex-direction:row;'>
   <a href="https://github.com/RamonLarcherRibeiro">
