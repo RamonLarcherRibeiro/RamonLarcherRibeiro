@@ -1,7 +1,7 @@
 
 <img style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&height=141&color=EA272F&section=header&reversal=false'>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=29&pause=1000&color=EA272F&center=true&vCenter=true&multiline=true&random=false&width=486&height=57&lines=Ola%2C+seja+bem+vindo+ao+meu+Github" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EA272F&random=false&width=435&lines=Ol%C3%A1+%2C+seja+bem+vindo+ao+meu+Github" alt="Typing SVG" /></a>
 
 <div style='display:flex; flex-direction:row;'>
   <a href="https://github.com/RamonLarcherRibeiro">
