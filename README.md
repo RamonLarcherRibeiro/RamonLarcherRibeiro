@@ -9,13 +9,13 @@
 </picture></br>
 
 
-<div style='display:flex; flex-direction:row; align-items:center; justify-content:center'>
+<div style='display:flex; flex-direction:colum; align-items:center; justify-content:center'>
 ## ⚡ Git Stats 
   <a href="https://github.com/RamonLarcherRibeiro">
   <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLarcherRibeiro&layout=compact&langs_count=7&theme=algolia"/>
 </div>
     
-<div style='display:flex; align-items:center; justify-content:center'>    
+<div style='display:flex; align-items:center; justify-content:center; flex-direction:column;'>    
 ## 👑Trophy👑
 <a href=""><img src = "https://github-profile-trophy.vercel.app/?username=RamonLarcherRibeiro&theme=algolia&column=-1&rank=-?"></a>
 </div>
