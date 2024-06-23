@@ -7,17 +7,20 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/RamonLarcherRibeiro/RamonLarcherRibeiro/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture></br>
-<div align=center>
 
+  
+## ⚡ Git Stats 
+<div style='display:flex; flex-direction:row; align-items:center; justify-content:center;'>
+  <a href="https://github.com/RamonLarcherRibeiro">
+  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLarcherRibeiro&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+    
 ## 👑Trophy👑
+<div align=center>
 <a href=""><img src = "https://github-profile-trophy.vercel.app/?username=RamonLarcherRibeiro&theme=algolia&column=-1&rank=-?"></a>
 </div>
 
-## ⚡ Git Stats 
-<div style='display:flex; flex-direction:row;'>
-  <a href="https://github.com/RamonLarcherRibeiro">
-  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLarcherRibeiro&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
 <div style='display:flex !important; flex-direction:row !important; align-items:center !important; justify-content:center !important;'>
   <a href="https://www.linkedin.com/in/ramon-larcher-b50806270" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a>   
