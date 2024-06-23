@@ -9,13 +9,13 @@
 </picture></br>
 
 ## ⚡ Git Stats 
-<div align=center>
+<div>
 <a href="https://github.com/RamonLarcherRibeiro">
 <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLarcherRibeiro&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
 ## 👑Trophy👑  
-<div align=center>    
+<div>    
 <a href=""><img src = "https://github-profile-trophy.vercel.app/?username=RamonLarcherRibeiro&theme=algolia&column=-1&rank=-?"></a>
 </div>
 
