@@ -7,8 +7,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/RamonLarcherRibeiro/RamonLarcherRibeiro/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture></br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=RamonLarcherRibeiro)](https://github.com/ryo-ma/github-profile-trophy)
+<div align=center>
 
+## 👑Trophy👑
+<a href=""><img src = "https://github-profile-trophy.vercel.app/?username=RamonLarcherRibeiro&theme=algolia&column=-1&rank=-?"></a>
+</div>
 
 ## ⚡ Git Stats 
 <div style='display:flex; flex-direction:row;'>
