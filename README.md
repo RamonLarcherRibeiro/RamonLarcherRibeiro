@@ -8,8 +8,9 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture></br>
 
-## ⚡ Git Stats 
+
 <div align=center>
+## ⚡ Git Stats 
 <a href="https://github.com/RamonLarcherRibeiro">
 <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLarcherRibeiro&layout=compact&langs_count=7&theme=algolia"/>
 </div>
