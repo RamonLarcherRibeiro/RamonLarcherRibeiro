@@ -7,7 +7,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/RamonLarcherRibeiro/RamonLarcherRibeiro/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture></br>
-[![trophy](https://github-profile-trophy.vercel.app/?RamonLarcherRibeiro=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RamonLarcherRibeiro)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## ⚡ Git Stats 
