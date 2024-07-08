@@ -27,15 +27,12 @@
 
 <div align=center>
   <h2>Langs And Tools</h2>
-
   <h3>Programing Langs</h3>
     <img src="https://skillicons.dev/icons?i=java,laravel,python,php,js,nodejs,express,vue">
   <h3>Databases</h3>
    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite">
   <h3>Tools</h3>
     <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,arduino">
-  <h3>Will Learn</h3>
-    <img src="https://skillicons.dev/icons?i=c,vue,react,java">
 </div>
 
 
