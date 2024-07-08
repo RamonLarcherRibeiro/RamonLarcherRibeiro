@@ -29,7 +29,7 @@
   <h2>Langs And Tools</h2>
 
   <h3>Programing Langs</h3>
-    <img src="https://skillicons.dev/icons?i=java,python,cs,html,js,ts,css,vite,md,nodejs,express,php,">
+    <img src="https://skillicons.dev/icons?i=java,laravel,python,php,js,nodejs,express,vue">
   <h3>Databases</h3>
    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite">
   <h3>Tools</h3>
