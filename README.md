@@ -25,6 +25,18 @@
 <a href=""><img src = "https://github-profile-trophy.vercel.app/?username=RamonLarcherRibeiro&theme=algolia&column=-1&rank=-?"></a>
 </div>
 
+<div align=center>
+  <h2>Langs And Tools</h2>
+
+  <h3>Programing Langs</h3>
+    <img src="https://skillicons.dev/icons?i=java,python,cs,html,js,ts,css,vite,md,nodejs,express,php,">
+  <h3>Databases</h3>
+   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite">
+  <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,arduino">
+  <h3>Will Learn</h3>
+    <img src="https://skillicons.dev/icons?i=c,vue,react,java">
+</div>
 
 
 <div style='display:flex !important; flex-direction:row !important; align-items:center !important; justify-content:center !important;'>
