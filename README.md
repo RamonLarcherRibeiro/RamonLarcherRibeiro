@@ -35,7 +35,7 @@
 <div align=center>
   <h2>Langs And Tools</h2>
   <h3>Programing Langs</h3>
-    <img src="https://skillicons.dev/icons?i=java,angular,laravel,vue,php,python,js,nodejs,express,typescript">
+    <img src="https://skillicons.dev/icons?i=java,angular,typescript,laravel,vue,php,python,js,nodejs,express">
   <h3>Databases</h3>
    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite">
   <h3>Tools</h3>
