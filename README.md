@@ -16,7 +16,7 @@
 
 
 ## ⚡ Git Stats ⚡
-<div>
+<div style="width:50%">
   <a href="https://github.com/RamonLarcherRibeiro">
   <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLarcherRibeiro&layout=compact&langs_count=7&theme=algolia"/>
   <img height="140em" src="https://streak-stats.demolab.com?user=RamonLarcherRibeiro&theme=algolia" alt="GitHub Streak" />  
