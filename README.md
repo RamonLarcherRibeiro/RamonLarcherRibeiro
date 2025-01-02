@@ -19,8 +19,7 @@
 <div >
   <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLarcherRibeiro&layout=compact&langs_count=7&theme=algolia"/>
   <a href="https://github.com/RamonLarcherRibeiro">  
- 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RamonLarcherRibeiro&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RamonLarcherRibeiro&theme=algolia">
 </div>
     
 ## 👑 Trophy 👑  
