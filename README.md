@@ -14,19 +14,6 @@
   <img style='width:100%; display:flex; flex-direction:row; align-items:center; justify-content:center;' src='https://raw.githubusercontent.com/RamonLarcherRibeiro/RamonLarcherRibeiro/main/rain.gif'>
 </div>
 
-
-## ⚡ Git Stats ⚡
-<div >
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLarcherRibeiro&layout=compact&langs_count=7&theme=algolia"/>
-  <a href="https://github.com/RamonLarcherRibeiro">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RamonLarcherRibeiro&theme=algolia">
-</div>
-    
-## 👑 Trophy 👑  
-<div>    
-<a href=""><img src = "https://github-profile-trophy.vercel.app/?username=RamonLarcherRibeiro&theme=algolia&column=-1&rank=-?"></a>
-</div>
-
 <div align=center>
   <h2>Langs And Tools</h2>
   <h3>Programing Langs</h3>
